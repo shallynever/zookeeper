@@ -103,3 +103,4 @@ zookeeper-client/zookeeper-client-c/generated/
 
 # Python
 *.py[cod]
+/data
